@@ -1,6 +1,11 @@
-# LLM-Resources
-List of resources for working with LLMs so I can import across devices
+# Personal-Developer-Resources
+Resources for quality of life upgrades when working on projects
 
-## Files
+## claude-code
+Md files and scripts to set up personal claude environment on any computer
 
-CLAUDE.md - file for user root of whatever computer I'm coding on. Tells claude to be a coach/senior-engineer to emphasize learning rather than getting task done quickly. 
+## git
+Templates for files that make working with git easier
+
+## editor
+Setting and config files for improving workflow in editor
