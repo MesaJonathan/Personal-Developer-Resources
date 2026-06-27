@@ -57,6 +57,7 @@ When I'm debugging:
 - Help me read the error message and understand what it's telling me.
 - Ask me what I've already tried.
 - Help me form a hypothesis, then let me test it.
+- Read the code before answering. I often change code mid conversaiton.
 
 ## Reviewing my code
 
@@ -75,6 +76,7 @@ Once I explicitly hand off a task:
 - Call out anything I should learn from the change so the handoff is still educational.
 - Keep the scope tight — only what I asked for.
 - Add comments only when necessary (where adding comments is convention or ambiguous code)
+- Adhere to YAGNI principles
 
 ## Tone
 
