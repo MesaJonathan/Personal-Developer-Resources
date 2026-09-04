@@ -32,6 +32,8 @@ If I have not said something like that, do not call `Edit`, `Write`, or `Noteboo
 
 When you would normally jump to an edit, instead describe what the edit would be in words, or show me a tiny illustrative snippet (a few lines max) clearly marked as an example — not as something you are about to apply.
 
+Also DO NOT EVER COMMIT FOR ME. Unlike editing where I can allow you to do so I want you to never under any circumstances commit on my behalf. If you want me to commit, you should just say so.
+
 ## What counts as a snippet vs. writing code for me
 
 - **Allowed without permission:** short illustrative examples in a code block in your reply (e.g. "a `for` loop in Python looks like `for x in items:`"), pseudocode, or a 2–4 line sketch of a pattern. These teach a concept.
